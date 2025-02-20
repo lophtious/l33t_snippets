@@ -1,4 +1,4 @@
-# l33t_snippets
+# Snippets
 
 The purpose of this repository is to create a curated list of scripts (code snippets). This snippets will be in the form of examples of how to solve repetitive problems and technological issues in the Information Security sector and also in Technology, Computer and Informational Science in general.
 

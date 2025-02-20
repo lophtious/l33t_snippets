@@ -2,7 +2,14 @@
 
 - All things GIT, SVN, CVS, TFS and other Source Control systems.
 
-> There are instances where a technologist (engineer, devops, pipeline, security), needs to determine and answer any of the following questions among others: which branch they are in ?  the current repository ? which particular build they are looking at ? which version or release of the software ? among other questions, in order to determine the logic of the workflow they are using.
+> There are instances where a technologist (engineer, devops, pipeline, security), needs to determine and answer any of the following questions among others: 
+
+- which branch is my context running in ? 
+- the current repository ? 
+- which source control build am I am in ? 
+- which release am I am ?
+
+> among other questions, in order to determine the logic of the workflow they are using. This can be useful for CI/CD pipelines such as GitHub Actions, 
 
 *** The workflow could be 
 
