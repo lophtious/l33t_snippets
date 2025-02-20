@@ -2,7 +2,7 @@
 
 The purpose of this repository is to create a curated list of scripts (code snippets). This snippets will be in the form of examples of how to solve repetitive problems and technological issues in the Information Security sector and also in Technology, Computer and Informational Science in general.
 
-## Example Use Cases
+## Example - Use Cases
 
 1. How many times do Information Security professionals (Security Engineers, Analytics, CISO's etc), get asked the same questions and they wonder ... 
 
@@ -12,7 +12,7 @@ As part of this repository, we will list and show examples of common (common-sen
 
 - If you deal with auditors every year, you likely get the same questions and you likely look for a way to simplify getting the information and responding in a timely and efficient manner.
 
-## Use Cases and Snippets
+## Use Cases / Snippets
 
 - This section will list the example use cases, and their resolutions
 
