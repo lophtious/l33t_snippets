@@ -8,9 +8,9 @@ The purpose of this repository is to create a curated list of scripts (code snip
 
 > "I believe I have solved this issue before, and at my former place of employment" but the resolution doesn't come to mind immediately and I no longer have access to the code or the solution.
 
-As part of this repository, we will list and show examples of common (common-sense) repetive resolutions that can be solve by simple scripts !
+As part of this repository, we will list and show examples of common (common-sense) repetive resolutions that can be solve by simple code, configurations and/or work-arounds (also called hacks) !!!
 
-- If you deal with auditors every year, you likely get the same questions and you likely look for a way to simplify getting the information and responding in a timely and efficient manner.
+- If you deal with government, auditors or compliance every year, you likely get the same questions and you likely look for a way to simplify getting the information and responding in a timely, consistent and efficient manner annually or on-demand.
 
 ## Use Cases / Snippets
 
