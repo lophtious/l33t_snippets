@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 GH_CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
 
